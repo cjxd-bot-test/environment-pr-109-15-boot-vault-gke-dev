@@ -3,3 +3,4 @@
 Dependency | Sources | Version | Mismatched versions
 ---------- | ------- | ------- | -------------------
 [cb-kubecd/bdd-spring-1576158518](https://github.com/cb-kubecd/bdd-spring-1576158518.git) |  | []() | 
+[cb-kubecd/bdd-gh-1576160500](https://github.com/cb-kubecd/bdd-gh-1576160500.git) |  | []() | 
